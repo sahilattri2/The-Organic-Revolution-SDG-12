@@ -1,0 +1,56 @@
+/* General styles for the form container */
+.upload-blog {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Heading styles */
+  .upload-blog h2 {
+    font-size: 28px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Styles for the input fields and textarea */
+  .upload-blog input,
+  .upload-blog textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Specific styles for the textarea */
+  .upload-blog textarea {
+    height: 150px;
+    resize: vertical;
+  }
+  
+  /* Styles for the submit button */
+  .upload-blog button {
+    width: 100%;
+    padding: 10px;
+    background-color: #77B0AA;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Hover effect for the button */
+  .upload-blog button:hover {
+    background-color: #5a8a80;
+  }
+  
