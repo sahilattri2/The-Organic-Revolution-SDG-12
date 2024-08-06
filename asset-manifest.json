@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/The-Organic-Revolution-SDG-12/static/css/main.e8ef22ba.css",
+    "main.js": "/The-Organic-Revolution-SDG-12/static/js/main.376b571b.js",
+    "static/media/sahil.jpeg": "/The-Organic-Revolution-SDG-12/static/media/sahil.ae819cbb681cc4593c9b.jpeg",
+    "static/media/cherry.avif": "/The-Organic-Revolution-SDG-12/static/media/cherry.9b3ae0a9f4776c292eda.avif",
+    "static/media/photo-1537721664796-76f77222a5d0.avif": "/The-Organic-Revolution-SDG-12/static/media/photo-1537721664796-76f77222a5d0.73cc444d97d10856ae98.avif",
+    "static/media/gold.avif": "/The-Organic-Revolution-SDG-12/static/media/gold.40587099c2b74991c312.avif",
+    "static/media/wheat.avif": "/The-Organic-Revolution-SDG-12/static/media/wheat.f4262adfae89e36cdc22.avif",
+    "static/media/photo-1624720114708-0cbd6ee41f4e.avif": "/The-Organic-Revolution-SDG-12/static/media/photo-1624720114708-0cbd6ee41f4e.d79156f8b8b3e575dd63.avif",
+    "index.html": "/The-Organic-Revolution-SDG-12/index.html",
+    "main.e8ef22ba.css.map": "/The-Organic-Revolution-SDG-12/static/css/main.e8ef22ba.css.map",
+    "main.376b571b.js.map": "/The-Organic-Revolution-SDG-12/static/js/main.376b571b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ef22ba.css",
+    "static/js/main.376b571b.js"
+  ]
+}
