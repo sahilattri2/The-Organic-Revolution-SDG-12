@@ -54,5 +54,5 @@ Push to the Branch (git push origin feature/NewFeature)<br />
 
 # Contact
 NAME: SAHIL <br />
-EMAIL: sahil.email@example.com<br />
-Project Link: GitHub Repository
+EMAIL: attri1379@gmail.com<br />
+Project Portfolio: https://sites.google.com/view/sahilattri/organic-farming
