@@ -32,8 +32,6 @@ Create a MySQL database.
 Update the database configurations in application.properties.
 
 ## Run the Frontend Server:
-
-  cd frontend
   npm start
   
 ## Usage
