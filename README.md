@@ -1,4 +1,4 @@
-#Organic-Farming-Web-Application:
+# Organic-Farming-Web-Application:
 Welcome to the Organic Farming Web Application! This project is designed to promote sustainable agriculture by providing a user-friendly web application that offers comprehensive information and resources on organic farming methods. Built using React.js for the frontend, Spring Boot for the backend, and MySQL for the database, this application aligns with United Nations Sustainable Development Goal (SDG) 12: Responsible Consumption and Production.
 
 Objectives
