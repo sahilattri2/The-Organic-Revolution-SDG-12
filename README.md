@@ -18,7 +18,7 @@ Language Management: Support text-to-speech conversion and blog management in fo
 To run this project locally, follow these steps:
   Clone the repository:
   
-    git clone https://github.com/yourusername/organic-farming-app.git
+    git clone https://github.com/sahilattri2/organic-farming-app.git
     cd organic-farming-app
 ## Install Frontend Dependencies:
 
